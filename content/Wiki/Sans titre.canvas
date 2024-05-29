@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"13d265a43a4318e1","type":"text","text":"Cybersecurity map","x":-120,"y":-140,"width":250,"height":60},
+		{"id":"4e466a4dda404828","type":"text","text":"Networking","x":-575,"y":-140,"width":250,"height":60},
+		{"id":"90f9b4501c403000","type":"text","text":"Cryptography","x":-575,"y":-221,"width":250,"height":60},
+		{"id":"58160ab5546413ea","type":"text","text":"System","x":-575,"y":-53,"width":250,"height":60},
+		{"id":"0512223bbbed8466","type":"text","text":"Virtualisation","x":-575,"y":37,"width":250,"height":60},
+		{"id":"498a014fbc5f10a8","type":"text","text":"SDR","x":325,"y":-140,"width":250,"height":60},
+		{"id":"68c7175f02092226","type":"text","text":"Forensics","x":325,"y":-53,"width":250,"height":60},
+		{"id":"47fedd0abf6396a5","type":"text","text":"Web","x":325,"y":37,"width":250,"height":60},
+		{"id":"725272e54247219b","type":"text","text":"Reverse engineering","x":325,"y":-221,"width":250,"height":60},
+		{"id":"dc7c6c56ff751a10","type":"text","text":"OPSEC","x":325,"y":-310,"width":250,"height":60},
+		{"id":"aefe14a2e33f281d","type":"text","text":"Physical Security","x":-575,"y":-310,"width":250,"height":60},
+		{"id":"ca50cc71c81ebaf8","type":"text","text":"Malware analysis","x":-575,"y":130,"width":250,"height":60},
+		{"id":"178c5fc5250ed399","type":"text","text":"AI","x":325,"y":130,"width":250,"height":60},
+		{"id":"7f2c6677d5b27741","type":"text","text":"Piracy","x":25,"y":250,"width":250,"height":60},
+		{"id":"d02e2bbaa78986b1","type":"text","text":"[[Darknets]]","x":-245,"y":250,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"89e7fadebd448df5","fromNode":"13d265a43a4318e1","fromSide":"left","toNode":"4e466a4dda404828","toSide":"right"},
+		{"id":"be638496d14202d2","fromNode":"13d265a43a4318e1","fromSide":"left","toNode":"90f9b4501c403000","toSide":"right"},
+		{"id":"7028cc25233befa4","fromNode":"13d265a43a4318e1","fromSide":"left","toNode":"aefe14a2e33f281d","toSide":"right"},
+		{"id":"6f6b52817f6ed732","fromNode":"13d265a43a4318e1","fromSide":"left","toNode":"58160ab5546413ea","toSide":"right"},
+		{"id":"e85ccdb75f29e8a0","fromNode":"13d265a43a4318e1","fromSide":"left","toNode":"0512223bbbed8466","toSide":"right"},
+		{"id":"c57f15c949716f33","fromNode":"13d265a43a4318e1","fromSide":"right","toNode":"dc7c6c56ff751a10","toSide":"left"},
+		{"id":"14cb318e124329fd","fromNode":"13d265a43a4318e1","fromSide":"right","toNode":"725272e54247219b","toSide":"left"},
+		{"id":"ab54858cc0bdb13f","fromNode":"13d265a43a4318e1","fromSide":"right","toNode":"498a014fbc5f10a8","toSide":"left"},
+		{"id":"b2f6f3525f80270f","fromNode":"13d265a43a4318e1","fromSide":"right","toNode":"68c7175f02092226","toSide":"left"},
+		{"id":"316b7d3c8e1f6cf4","fromNode":"13d265a43a4318e1","fromSide":"right","toNode":"47fedd0abf6396a5","toSide":"left"},
+		{"id":"dd9a65a09ae484ac","fromNode":"13d265a43a4318e1","fromSide":"left","toNode":"ca50cc71c81ebaf8","toSide":"right"},
+		{"id":"9103d2f231b6c66d","fromNode":"13d265a43a4318e1","fromSide":"right","toNode":"178c5fc5250ed399","toSide":"left"},
+		{"id":"d75119e769a1eec4","fromNode":"13d265a43a4318e1","fromSide":"bottom","toNode":"d02e2bbaa78986b1","toSide":"top"},
+		{"id":"2833dbf65ae2cfbd","fromNode":"13d265a43a4318e1","fromSide":"bottom","toNode":"7f2c6677d5b27741","toSide":"top"}
+	]
+}
