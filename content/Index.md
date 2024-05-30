@@ -7,6 +7,5 @@ tags:
 # [[Hacking]]👾
 # [[Darknets]]🌐
 # [[Note_taking]]📝
-
 # [[Espionnage]]🕵️‍♂️
 
